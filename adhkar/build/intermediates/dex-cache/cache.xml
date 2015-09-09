@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-cb45de25033c3665320dd2cafe5df424fd028375.jar" />
+    </item>
+    <item
+        jar="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/pre-dexed/debug/classes-ce4eefe9dffd409bcb2120b3ad1bacdd1650ebe5.jar" />
+    </item>
+    <item
+        jar="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/exploded-aar/Adhkar.app.libraries/ViewLib/unspecified/jars/libs/com.radaee.view.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="80e3dbcb080dcd54142e1cfd8250cc5c94950d83">
+        <dex dex="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/pre-dexed/debug/com.radaee.view-1919d865e98de631daa3c2af639c1c36707a270c.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-82e7c0fc75e5c03712beb01b3317fbdb847c930e.jar" />
+    </item>
+    <item
+        jar="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/pre-dexed/debug/classes-8c7ea34bb4068ef8fe08e2a81ae1aefbc6cb8b20.jar" />
+    </item>
+    <item
+        jar="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/pre-dexed/debug/classes-8c7629e7a2673182973e9e1e262a5bd455970d86.jar" />
+    </item>
+    <item
+        jar="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c98ce61872f4edd99e4b640720a7b893fb969ab7.jar" />
+    </item>
+    <item
+        jar="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/exploded-aar/Adhkar.app.libraries/ViewLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c4207097267a30ad27779b2fa9770103b656dec4">
+        <dex dex="/home/wissem/Desktop/andoird/Adhkar/app/build/intermediates/pre-dexed/debug/classes-a4d5f98a00caf69595cc618c91aa4d1f2501b7cd.jar" />
+    </item>
+
+</items>
