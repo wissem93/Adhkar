@@ -1,3 +1,0 @@
-include ':app'
-include ':app:libraries:ViewLib'
-include ':app:libraries:facebook-android-sdk-4.4.1'
